@@ -476,10 +476,10 @@ Frequency	dB	Unweighted
 18030	34.6
 18293	34.7
 18559	35.1
-18829	35.5
-19102	36.4
-19380	37.5
-20000	41.1
+18829	60.5
+19102	60.4
+19380	60.5
+20000	60
 overall dB	0.0 dB
 decay	Average
 averaging	No Smoothing
