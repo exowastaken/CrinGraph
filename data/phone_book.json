@@ -4,7 +4,8 @@
     "phones": [ "FQQ"
               , "Q53"
               , "KT"
-              , "B27 test"
+              , "B27"
+              , {"name":"test 1","file":"B27_test"}
               , "BKF"
               , "H2"
               , "HH"
