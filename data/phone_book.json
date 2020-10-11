@@ -1,11 +1,10 @@
 [
   {
-    "name":   "QBK",
-    "phones": [ "FQQ"
+    "name":   "TEST",
+    "phones": [ "Graphz"
               , "Q53"
               , "KT"
               , "B27"
-              , {"name":"test 1","file":"B27_test"}
               , "BKF"
               , "H2"
               , "HH"
@@ -70,9 +69,5 @@
               , "Z"
               , "HTH67"
               , "HT5" ]
-  }
-    }, {
-    "name":   "TEST",
-    "phones": ["Graphz" ]
   }
 ]
