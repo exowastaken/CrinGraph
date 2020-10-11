@@ -12,7 +12,7 @@ function watermark(svg) {
 //      .attrs({x:-64, y:-64, width:128, height:128, "xlink:href":URL});
     wm.append("text")
         .attrs({x:0, y:40, "font-size":40, "text-anchor":"middle"})
-        .text("sample graphs");
+        .text("Bad Guy, good audio Reviews");
 }
 
 const max_channel_imbalance = 5;
