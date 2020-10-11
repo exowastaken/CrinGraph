@@ -71,4 +71,8 @@
               , "HTH67"
               , "HT5" ]
   }
+    }, {
+    "name":   "TEST",
+    "phones": ["Graphz" ]
+  }
 ]
